@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myview="http://schemas.android.com/apk/res/com.zzy.cloudpic"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <com.zzy.cloudpic.ui.BorderImageView
+        android:id="@+id/cover_ac_gv_item"
+        android:layout_width="102.6dp"
+        android:layout_height="102.6dp"
+        android:scaleType="centerCrop"
+        myview:borderWidth="6dp"
+        myview:isSelect="false"
+        myview:borderColor="#FFFFFF"
+        />
+</LinearLayout>
