@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">PictureExplorer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">云图</string>
+    <string name="timeformat">yy年MM月dd日  HH:mm</string>
+     <string name="scaner_alert_title">正在建立缓存</string>
+    <string name="scaner_alert_msg">这可能是您第一次使用我，也可能是您系统的缓存丢失了，但为了能更快速的运行，请给我一首歌的事件建立缓存..^_^o~ 努力中！</string>
+
+</resources>

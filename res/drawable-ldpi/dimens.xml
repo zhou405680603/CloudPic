@@ -1,0 +1,10 @@
+<resources>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="imagewidth">96dp</dimen>
+    <dimen name="main_gv_image">44dp</dimen>
+    <dimen name="main_gv_iamgeparent">61dp</dimen>
+    <dimen name="main_gv_linearlayout">62dp</dimen>
+</resources>
