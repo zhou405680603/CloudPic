@@ -2,11 +2,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent" >
-<com.zzy.cloudpic.ui.SmoothScrollView 
+<com.zzy.cloudpic.ui.SmoothScrollView
         android:id="@+id/cover_ac_scroll"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent">
-    <com.zzy.cloudpic.ui.CoverGridView android:id="@+id/mainactivity_gridview"
+    <com.zzy.cloudpic.ui.CoverGridView
+	android:id="@+id/mainactivity_gridview"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:background="@drawable/main_bg"
